@@ -10,9 +10,9 @@ Tips:I not verify the code.
 
 web page rely:
 
-<script src="https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert-dev.min.js"></script>
+script src : https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert-dev.min.js
 
-<link href="https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert.min.css" rel="stylesheet">
+css link : https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert.min.css
 
 /**
 
