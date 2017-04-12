@@ -1,0 +1,27 @@
+{
+    "name": "sscs/sweetalert-laravel",
+    "description": " sweetalert for laravel package.beautiful replacement for JavaScript's \"Alert\" ",
+    "keywords": [
+        "sweetalert",
+        "sweetalert-laravel",
+        "sweetalert插件"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/AaronZjs/sweetalert-laravel",
+    "authors": [
+        {
+            "name": "sscs",
+            "email": "2213531641@qq.com",
+            "homepage": "http://rockjun.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alert\\": "src/"
+        }
+    }
+}
