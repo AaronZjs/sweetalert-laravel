@@ -3,12 +3,9 @@ sweetalert for laravel package.beautiful replacement for JavaScript's "Alert"
 
 
 
-Tips:I not verify the code.
+test
 
-如果不 好/能 用，你tm来打我啊～～
-
-
-web page rely:
+rely:
 
 script src : https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert-dev.min.js
 
